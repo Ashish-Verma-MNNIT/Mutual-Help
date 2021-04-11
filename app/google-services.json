@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805685320646",
+    "project_id": "mutualhelps-dac21",
+    "storage_bucket": "mutualhelps-dac21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805685320646:android:112c77c713d6e3a20530c7",
+        "android_client_info": {
+          "package_name": "com.ashish.mutualhelps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805685320646-jrdqaoki9p5vsib9tknue1lcgbjfh1eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJynxazcPORIQ_A2d5qPXx7fGcZq8ZZ6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805685320646-jrdqaoki9p5vsib9tknue1lcgbjfh1eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
